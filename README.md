@@ -7,7 +7,7 @@
 <br>
 <br>
 
-[<img src="https://github.com/TheAcharya/MarkerData-Website/blob/main/docs/static/logo.png?raw=true" width="200" alt="App icon">](https://github.com/TheAcharya/MarkerData)
-[<img src="https://github.com/TheAcharya/MarkersExtractor/blob/main/Assets/MarkersExtractor_Icon.png?raw=true" width="200" alt="App icon">](https://github.com/TheAcharya/MarkersExtractor)
-[<img src="https://github.com/TheAcharya/csv2notion-neo/blob/master/assets/CSV2Notion%20Neo_Icon.png?raw=true" width="200" alt="App icon">](https://github.com/TheAcharya/csv2notion-neo)
-[<img src="https://github.com/TheAcharya/Airlift/blob/main/assets/Airlift_Icon.png?raw=true" width="200" alt="App icon">](https://github.com/TheAcharya/Airlift)
+[<img src="https://github.com/TheAcharya/MarkerData-Website/blob/main/docs/static/logo.png?raw=true" width="175" alt="App icon">](https://github.com/TheAcharya/MarkerData)
+[<img src="https://github.com/TheAcharya/MarkersExtractor/blob/main/Assets/MarkersExtractor_Icon.png?raw=true" width="175" alt="App icon">](https://github.com/TheAcharya/MarkersExtractor)
+[<img src="https://github.com/TheAcharya/csv2notion-neo/blob/master/assets/CSV2Notion%20Neo_Icon.png?raw=true" width="175" alt="App icon">](https://github.com/TheAcharya/csv2notion-neo)
+[<img src="https://github.com/TheAcharya/Airlift/blob/main/assets/Airlift_Icon.png?raw=true" width="175" alt="App icon">](https://github.com/TheAcharya/Airlift)
